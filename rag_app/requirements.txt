@@ -1,0 +1,5 @@
+redis
+rq
+openai
+langchain-qdrant
+langchain-huggingface
